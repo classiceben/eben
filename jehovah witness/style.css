@@ -1,0 +1,47 @@
+h2{
+    text-align: center;
+    color: white;
+
+}
+.church{
+    background-color: forestgreen;
+    width: 40%;
+    height: 60%;
+    font-size: smaller;
+}
+.shrine{
+text-align: left;
+    font-size: small;
+    background-color: #494f54;
+}
+img{
+    float: top;
+}
+.karo{
+    color: #28a745;
+}
+.omo{
+    margin-top: -10px;
+}
+.simon{
+    width: 70%;
+    margin: auto;
+}
+.mark{
+    margin-top:-30px;
+}
+.emma{
+   background-color: black;
+}
+.mike {
+    font-size: small;
+    margin-left:20px;
+    color: #28a745;
+}
+.josh{
+    margin-top:-10px;
+    margin-bottom: 10px;
+    margin-left:20px;
+    font-size: small;
+:
+}

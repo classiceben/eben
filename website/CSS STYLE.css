@@ -1,0 +1,35 @@
+body{
+    background-image: url("Screenshot_20200422-134423.png");
+}
+h2{
+    color:forestgreen;
+    text-align: center;
+}
+.main{
+    text-align: center;
+}
+.good{
+    background-color: white;
+}
+.friend{
+    margin-top:60%;
+}
+.call{
+    color: white;
+}
+.boy{
+    color: WHITE;
+}
+.joy{
+    text-align: center;
+}
+.joke{
+  background-color: blue;
+}
+.btn-danger{
+    background-color: black;
+}
+.btn-danger :hover{
+    background-color: black;
+}
+
